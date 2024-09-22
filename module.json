@@ -1,0 +1,112 @@
+{
+  "id": "noodles-oracle",
+  "title": "Noodles' Oracle",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "They call me the describer. Oracle!",
+  "authors": [
+    {
+      "name": "Cthulu the Noodles Man",
+      "email": "cthuluthenoodlesman@gmail.com",
+      "discord": "cthoodles",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "no-class-and-features",
+      "label": "Class and Features",
+      "path": "packs/no-class-and-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "no-feats",
+      "label": "Feats",
+      "path": "packs/no-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "no-mysteries-and-curses",
+      "label": "Mysteries and Curses",
+      "path": "packs/no-mysteries-and-curses",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "no-spells-and-effects",
+      "label": "Spells and Effects",
+      "path": "packs/no-spells-and-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Noodles' Oracle",
+      "sorting": "m",
+      "packs": [
+        "no-class-and-features",
+        "no-feats",
+        "no-mysteries-and-curses",
+        "no-spells-and-effects"
+      ],
+      "color": null,
+      "folders": []
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "flags": {
+    "noodles-oracle": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "oracle-noodles": {
+            "label": "Oracle (Noodles)",
+            "description": "This trait indicates abilities from Noodles' oracle class."
+          },
+          "epiphany": {
+            "label": "Epiphany",
+            "description": "Feats with this trait add to the effects of your oracular curse. Such feats indicate the cursebound value at which you gain their benefits, drawbacks, and/or actions."
+          }
+        },
+        "spellTraits": {
+          "oracle-noodles": {
+            "label": "Oracle (Noodles)",
+            "description": "This trait indicates abilities from Noodles' oracle class."
+          }
+        }
+      }
+    }
+  },
+  "url": "https://github.com/Cthoodles/Noodles-Oracle",
+  "manifest": "https://raw.githubusercontent.com/Cthoodles/Noodles-Oracle/master/module.json",
+  "download": "https://github.com/Cthoodles/Noodles-Oracle/archive/refs/heads/main.zip"
+}
