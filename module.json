@@ -3,9 +3,8 @@
   "title": "Noodles' Oracle",
   "version": "0.1.0",
   "compatibility": {
-    "minimum": "12.324",
+    "minimum": "12",
     "verified": "12.331"
-    "maximum": "12"
   },
   "description": "Ponder your Mystery with Noodles' Oracle! This homebrew class for Pathfinder 2e aims to replicate the playstyle of pre-remaster Oracle while streamlining its clunkiest elements.",
   "authors": [
