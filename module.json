@@ -59,6 +59,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "no-multiclass-archetype",
+      "label": "Multiclass Archetype",
+      "path": "packs/no-multiclass-archetype",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
     }
   ],
   "packFolders": [

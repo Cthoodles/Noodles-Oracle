@@ -1,5 +1,24 @@
-2024/09/22-11:35:42.509 154d8 Recovering log #25
-2024/09/22-11:35:42.509 154d8 Level-0 table #27: started
-2024/09/22-11:35:42.511 154d8 Level-0 table #27: 47114 bytes OK
-2024/09/22-11:35:42.515 154d8 Delete type=0 #25
-2024/09/22-11:35:42.515 154d8 Delete type=3 #24
+2024/11/17-14:42:55.072 6294 Recovering log #46
+2024/11/17-14:42:55.072 6294 Level-0 table #48: started
+2024/11/17-14:42:55.074 6294 Level-0 table #48: 50930 bytes OK
+2024/11/17-14:42:55.076 6294 Delete type=0 #46
+2024/11/17-14:42:55.076 6294 Delete type=3 #45
+2024/11/17-15:06:34.288 5524 Level-0 table #51: started
+2024/11/17-15:06:34.296 5524 Level-0 table #51: 3879 bytes OK
+2024/11/17-15:06:34.298 5524 Delete type=0 #49
+2024/11/17-15:06:34.320 5524 Manual compaction at level-0 from '!items!0Yf8q0zAenVxeAUS' @ 72057594037927935 : 1 .. '!items!xR6DgF8N8FjjBOSr' @ 0 : 0; will stop at '!items!jQVa0Xs4nlc1JFxz' @ 364 : 1
+2024/11/17-15:06:34.320 5524 Compacting 2@0 + 0@1 files
+2024/11/17-15:06:34.322 5524 Generated table #52@0: 12 keys, 24847 bytes
+2024/11/17-15:06:34.322 5524 Compacted 2@0 + 0@1 files => 24847 bytes
+2024/11/17-15:06:34.322 5524 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/17-15:06:34.322 5524 Delete type=2 #48
+2024/11/17-15:06:34.322 5524 Delete type=2 #51
+2024/11/17-15:06:34.335 5524 Manual compaction at level-0 from '!items!jQVa0Xs4nlc1JFxz' @ 364 : 1 .. '!items!xR6DgF8N8FjjBOSr' @ 0 : 0; will stop at (end)
+2024/11/17-15:06:34.343 5524 Manual compaction at level-1 from '!items!0Yf8q0zAenVxeAUS' @ 72057594037927935 : 1 .. '!items!xR6DgF8N8FjjBOSr' @ 0 : 0; will stop at '!items!vPaLiEKFeGZoj3Xk' @ 353 : 1
+2024/11/17-15:06:34.343 5524 Compacting 1@1 + 1@2 files
+2024/11/17-15:06:34.350 5524 Generated table #53@1: 24 keys, 51605 bytes
+2024/11/17-15:06:34.350 5524 Compacted 1@1 + 1@2 files => 51605 bytes
+2024/11/17-15:06:34.351 5524 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/17-15:06:34.352 5524 Delete type=2 #44
+2024/11/17-15:06:34.352 5524 Delete type=2 #52
+2024/11/17-15:06:34.356 5524 Manual compaction at level-1 from '!items!vPaLiEKFeGZoj3Xk' @ 353 : 1 .. '!items!xR6DgF8N8FjjBOSr' @ 0 : 0; will stop at (end)

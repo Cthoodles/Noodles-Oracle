@@ -1,5 +1,24 @@
-2024/09/22-11:35:42.492 12140 Recovering log #33
-2024/09/22-11:35:42.492 12140 Level-0 table #35: started
-2024/09/22-11:35:42.497 12140 Level-0 table #35: 102933 bytes OK
-2024/09/22-11:35:42.498 12140 Delete type=0 #33
-2024/09/22-11:35:42.498 12140 Delete type=3 #32
+2024/11/17-14:42:55.036 63d4 Recovering log #51
+2024/11/17-14:42:55.036 63d4 Level-0 table #53: started
+2024/11/17-14:42:55.042 63d4 Level-0 table #53: 380 bytes OK
+2024/11/17-14:42:55.042 63d4 Delete type=0 #51
+2024/11/17-14:42:55.042 63d4 Delete type=3 #50
+2024/11/17-15:06:34.299 5524 Level-0 table #56: started
+2024/11/17-15:06:34.305 5524 Level-0 table #56: 3216 bytes OK
+2024/11/17-15:06:34.306 5524 Delete type=0 #54
+2024/11/17-15:06:34.323 5524 Manual compaction at level-0 from '!items!0PuPv0KwjHy4vBLN' @ 72057594037927935 : 1 .. '!items!zfQ8ICpGnFTFKS9A' @ 0 : 0; will stop at '!items!Qn0EzPBvs0HX597w' @ 213 : 1
+2024/11/17-15:06:34.323 5524 Compacting 2@0 + 0@1 files
+2024/11/17-15:06:34.334 5524 Generated table #57@0: 11 keys, 3489 bytes
+2024/11/17-15:06:34.334 5524 Compacted 2@0 + 0@1 files => 3489 bytes
+2024/11/17-15:06:34.334 5524 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/17-15:06:34.334 5524 Delete type=2 #53
+2024/11/17-15:06:34.335 5524 Delete type=2 #56
+2024/11/17-15:06:34.335 5524 Manual compaction at level-0 from '!items!Qn0EzPBvs0HX597w' @ 213 : 1 .. '!items!zfQ8ICpGnFTFKS9A' @ 0 : 0; will stop at (end)
+2024/11/17-15:06:34.352 5524 Manual compaction at level-1 from '!items!0PuPv0KwjHy4vBLN' @ 72057594037927935 : 1 .. '!items!zfQ8ICpGnFTFKS9A' @ 0 : 0; will stop at '!items!xVhaywI77hAKeLmq' @ 204 : 0
+2024/11/17-15:06:34.352 5524 Compacting 1@1 + 1@2 files
+2024/11/17-15:06:34.355 5524 Generated table #58@1: 53 keys, 46661 bytes
+2024/11/17-15:06:34.355 5524 Compacted 1@1 + 1@2 files => 46661 bytes
+2024/11/17-15:06:34.356 5524 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/17-15:06:34.356 5524 Delete type=2 #43
+2024/11/17-15:06:34.356 5524 Delete type=2 #57
+2024/11/17-15:06:34.356 5524 Manual compaction at level-1 from '!items!xVhaywI77hAKeLmq' @ 204 : 0 .. '!items!zfQ8ICpGnFTFKS9A' @ 0 : 0; will stop at (end)
