@@ -78,14 +78,17 @@
       "sorting": "m",
       "packs": [
         "no-class-and-features",
-        "no-feats",
         "no-mysteries-and-curses",
+		"no-feats",
         "no-spells-and-effects",
-	"no-multiclass-archetype"
+		"no-multiclass-archetype"
       ],
       "color": null,
       "folders": []
     }
+  ],
+  "scripts": [
+    "scripts/compendiumBrowser.js"
   ],
   "relationships": {
     "systems": [
