@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added scripting to make the module interact properly with the compendium browser.
+- Figured out how GitHub releases work and started doing that.
 
 ### Changed
 
