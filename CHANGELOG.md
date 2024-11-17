@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Automation for all remaining Curses and their versions within the Multiclass Archetype.
 - Creation and implementation of the Blight mystery from Divine Mysteries.
+- Scripting to make the compendium browser work right.
+
+## Changed
+- Added the Aura trait to Incendiary Aura and Trial by Skyfire. Prayed to John Paizo to remember to add the Aura trait to emanations that are supposed to move with the caster.
 
 ## [0.2.0] - 2024-11-17
 
