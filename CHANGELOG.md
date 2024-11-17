@@ -9,7 +9,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Planned
 
-- Automation for all remaining Curses and the Multiclass Archetype.
+- Automation for all remaining Curses and their versions within the Multiclass Archetype.
+- Creation and implementation of the Blight mystery from Divine Mysteries.
+
+## [0.2.0] - 2024-11-17
+
+### Added
+
+- Added automation for the Curse of Engulfing Flames.
+- Added automation for the Multiclass Archetype, including its versions of the Curses of Engulfing Flames and the Perpetual Storm.
+
+### Changed
+
+- Removed the Decay domain from Ash mystery and replaced it with the Nothingness domain, to avoid overuse of Decay.
+- Renamed Insterstellar Void to Insterstellar Nothingness, to avoid confusion with the remaster's Void terminology.
+
+### Fixed
+
+= Various grammar errors.
 
 ## [0.1.0] - 2024-09-22
 
