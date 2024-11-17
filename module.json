@@ -122,6 +122,6 @@
     }
   },
   "url": "https://github.com/Cthoodles/Noodles-Oracle",
-  "manifest": "https://raw.githubusercontent.com/Cthoodles/Noodles-Oracle/master/module.json",
-  "download": "https://github.com/Cthoodles/Noodles-Oracle/archive/refs/heads/main.zip"
+  "manifest": "https://github.com/Cthoodles/Noodles-Oracle/releases/latest/download/module.json",
+  "download": "https://github.com/Cthoodles/Noodles-Oracle/releases/download/v0.2.1/module.zip
 }
