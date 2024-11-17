@@ -80,7 +80,8 @@
         "no-class-and-features",
         "no-feats",
         "no-mysteries-and-curses",
-        "no-spells-and-effects"
+        "no-spells-and-effects",
+		"no-multiclass-archetype"
       ],
       "color": null,
       "folders": []
