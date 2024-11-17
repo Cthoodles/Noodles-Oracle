@@ -26,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-= Various grammar errors.
+- Various grammar errors.
 
 ## [0.1.0] - 2024-09-22
 
