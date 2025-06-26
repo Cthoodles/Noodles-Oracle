@@ -12,6 +12,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automation for all remaining Curses and their versions within the Multiclass Archetype.
 - Creation and implementation of the Blight mystery from Divine Mysteries.
 
+## [0.3.0] - 2025-6-26
+
+### Added
+- Added automation for the Curse of Torrential Knowledge (but not its multiclass archetype).
+
 ## [0.2.1] - 2024-11-17
 
 ### Added
